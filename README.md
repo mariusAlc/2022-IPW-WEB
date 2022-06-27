@@ -1,4 +1,4 @@
-# Curricullum
+# Curriculum
 1. Setup
    1. vs-code
    2. Chrome devtools
@@ -53,6 +53,7 @@
 
 # Structura Cursuri
 Slide-uri per capitol
+Teme
 Fisiere cu exercitii
 Tester JS/TS/NODE
 

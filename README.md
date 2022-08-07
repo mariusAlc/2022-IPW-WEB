@@ -1,9 +1,27 @@
-# Curriculum
+# `Web Development Course`
+This is the repository for the Web Development Course held at Ideeas & Projects Workshop Summer School, August 2022 in Tg. Mures, Sapientia University.
+
+This readme serves as a compendium on the Web Development Course providing links to various resources as well as the packages used for every course.
+
+Each course excepting the first one (Setup) is contained within a separate package and contains both the course exercises as well as functional examples that define different concepts tackled within this course. 
+
+To maintain the structure of this course it is recommended to fork it and follow the instructions written below.
+## `Instructions`
+Each course contains the following structure
+## `Curriculum`
+Below is a list of every course that will be
 1. Setup
-   1. vs-code
-   2. Chrome devtools
-   3. Docker
-2. JS
+Overview of the setup and links to all the utilities and packages needed:
+   1. [Visual Studio Code](https://code.visualstudio.com/)
+   2. [Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwquWVBhBrEiwAt1Kmwp6BKusHuM75EekyZp2l2OvRByTK1ilAO5TPEfxGLcuBSK17eOLKtBoC1DgQAvD_BwE&gclsrc=aw.ds) & [Vue.Js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+   3. [Node.JS](https://nodejs.org/en/)
+   4. [TypeScript](https://www.typescriptlang.org/download)
+   5. [Vue.JS](https://vuejs.org/guide/quick-start.html#with-build-tools)
+   6. [Vuetify.JS](https://vuetifyjs.com/en/getting-started/installation/)
+   7. [Docker](https://www.docker.com/products/docker-desktop/)
+##### Note: This course does not contain a standalone package but rather, all the necessary links are provided within this readme.
+2. [JS](./JS/README.md)
+A basic introduction
    1. Syntax
    2. Basic Types + Scopes + Variable Declaration
    3. Function + Types
@@ -45,10 +63,10 @@
    5. Props
 8. DB - Mongo
 9.  Dockerizing
-# Structure
-# Resources
-# Links
-# How To
+# `Structure`
+# `Resources`
+# `Links`
+# `How To`
 
 
 # Structura Cursuri

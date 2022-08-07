@@ -1,0 +1,26 @@
+<!doctype html> <!-- This is a comment -->
+<html>
+	<head> <!-- Our document name will be index.html -->
+		<title>Audio and Video</title>
+	</head>
+	<body>
+		<h1>Audio Element</h1>
+		<audio controls>
+			<source src="audio.mp3" type="audio/mpeg">
+			<!--mp3 source-->
+			<source src="audio.ogg" type="audio/ogg">
+			<!--ogg source-->
+			Your browser does not support the audio tag.
+			<!--In case the browser does not support mp3 or ogg-->
+		</audio>
+		<h1>Video Element</h1>
+		<video width="320" height="240" controls>
+			<source src="movie.mp4" type="video/mp4">
+			<!--mp4 source-->
+			<source src="movie.ogg" type="video/ogg">
+			<!--ogg source-->
+			Your browser does not support the video tag.
+			<!--In case the browser does not support mp4 or ogg-->
+		</video>
+	</body>
+</html>

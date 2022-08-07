@@ -3,6 +3,15 @@
 const express = require("express");
 
 const app = express();
+app.use((req, res, next) => {
+	const { auth } = req.headers.authorization;
+	const token = auth.split(" ")[1];
+	if (token) {
+		next();
+	} else {
+		res.sendStatus(401);
+	}
+});
 /**
  * req - request object
  * res - response object

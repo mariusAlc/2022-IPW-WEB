@@ -61,17 +61,5 @@ A basic introduction
    3. Flex/grid
    4. Components
    5. Props
-8. DB - Mongo
-9.  Dockerizing
-# `Structure`
-# `Resources`
-# `Links`
-# `How To`
-
-
-# Structura Cursuri
-Slide-uri per capitol
-Teme
-Fisiere cu exercitii
-Tester JS/TS/NODE
-
+8. DB - Mongo - if we have time
+9.  Dockerizing - if we have time
